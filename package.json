@@ -1,0 +1,16 @@
+{
+  "name": "jest-search-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-typescript": "^7.22.5",
+    "@elastic/elasticsearch": "^8.9.0",
+    "@geek-fun/jest-search": "^1.0.5",
+    "babel-jest": "^29.6.2",
+    "jest": "^29.6.2",
+    "mongodb-memory-server-global": "^8.14.0",
+    "mongoose": "^7.4.2"
+  }
+}
